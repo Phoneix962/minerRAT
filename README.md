@@ -1,6 +1,7 @@
 
 # AsyncRAT Mod + Miner & File Binder Plugin By Phoneix
 
-This RAT does Have Miner inside you can send gpuminer or cpuminer and bind files in it.
+AsyncRAT Miner XMR and ETC Version 0.5.8 Mod by Phoneix
 
-And Updated Logs for minimalism
+This is a modification of the well-known AsyncRat with the addition of GPU and CPU miner modules,
+as well as cleaning the stab and improving the appearance of the control panel.
